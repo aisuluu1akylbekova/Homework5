@@ -16,7 +16,7 @@ public class Main {
         for (int i = 0; i < dc.length; i++) {
             System.out.println(dc[i].getName() + " - " + dc[i].getHealth() + "хп " + dc[i].getDamage() + "дд суперспособность: " + dc[i].getPower());
         }
-/*
+
 
 
     }
